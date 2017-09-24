@@ -1,3 +1,4 @@
+// main class for spring init
 package com.clinic;
 
 import org.springframework.boot.SpringApplication;
